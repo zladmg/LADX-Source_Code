@@ -15,4 +15,4 @@ To set up, just download the repository and run the *cgal.bat* file in each fold
 
 # TODO
 
-German and Franch versions will be added soon, and so will ROM hashes for each version
+Franch version will be added soon, and so will ROM hashes for each version
