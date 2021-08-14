@@ -1,7 +1,7 @@
 # LADX-Source_Code
 Official Source Code of Legend of Zelda: Links Awakening DX
 
-From 2018-2021, a huge wave of Nintendo leaks nicknamed the "Gigaleaks" was posted online which constained 
+From 2018-2021, a huge wave of Nintendo leaks nicknamed the "Gigaleaks" was posted online which contained 
 many top secret infomation ranging from game and console source code to internal documentation 
 and development tools. Included within all the mess was the Source Code to The Legend of Zelda: Link's Awakening DX
 released in 1998 for the Nintendo Game Boy Color system in every language that it was made in. However, in its raw 
